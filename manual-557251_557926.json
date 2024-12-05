@@ -1,0 +1,28 @@
+{
+    "startRun": 557251,
+    "endRun": 557926,
+    "rejectList": [
+        {
+            "deId": 4,
+            "columnId": 2,
+            "patterns": [
+                "0x0",
+                "0xFFFF",
+                "0x0",
+                "0x0",
+                "0x0"
+            ]
+        },
+        {
+            "deId": 13,
+            "columnId": 2,
+            "patterns": [
+                "0x0",
+                "0xFFFF",
+                "0x0",
+                "0x0",
+                "0x0"
+            ]
+        }
+    ]
+}
